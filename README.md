@@ -11,4 +11,7 @@ I'm a Backend Java Engineer. I like to give value and solve problems one code at
 - ⚡ Fun fact: I'm an unserious serious fellow
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopeuche360&layout=compact)](https://github.com/Hopeuche360/github-readme-stats)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hopeuche360&show_icons=true&theme=radical)
