@@ -10,6 +10,9 @@ I'm a Backend Java Engineer. I like to give value and solve problems one code at
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an unserious serious fellow
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hopeuche360&show_icons=true&theme=nord&count_private=true)
