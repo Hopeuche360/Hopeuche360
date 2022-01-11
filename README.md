@@ -1,3 +1,5 @@
+ <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FChillyLiveCorydorascatfish-size_restricted.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fprocessing-java-gifs&tbnid=fe9xhld4G_NB4M&vet=12ahUKEwihtrHR26j1AhVZwoUKHfRpAHwQMygcegUIARC5Ag..i&docid=QZngArWoj2OaUM&w=578&h=251&itg=1&q=java%20gif&hl=en&ved=2ahUKEwihtrHR26j1AhVZwoUKHfRpAHwQMygcegUIARC5Ag">
+
 # Meet Hope
 
 ### Hi there 👋
