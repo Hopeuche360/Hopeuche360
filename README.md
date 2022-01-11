@@ -16,6 +16,6 @@ I'm a Backend Java Engineer. I like to give value and solve problems one code at
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopeuche360&layout=compact&theme=nord)](https://github.com/Hopeuche360/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hopeuche360&theme=nord)](https://github.com/Hopeuche360/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hopeuche360&theme=nord&column=3)](https://github.com/Hopeuche360/github-profile-trophy)
 
 
