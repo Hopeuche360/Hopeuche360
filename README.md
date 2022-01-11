@@ -19,7 +19,7 @@ I'm a Backend Java Engineer. I like to give value and solve problems one code at
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hopeuche360&show_icons=true&theme=nord&count_private=true)
 
-# My Most used Language
+# My Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopeuche360&layout=compact&theme=nord)](https://github.com/Hopeuche360/github-readme-stats)
 
 # My Trophies
